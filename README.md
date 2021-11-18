@@ -3,6 +3,6 @@
 Trabalho de MS211 (Cálculo Numérico), segundo semestre de 2021.
 
 ## Grupo X:
-### Danhiel
-###
-###
+### Daniel C. Neto RA: 169233
+### Estevão S. Rodrigues RA: 168030
+### Nicole M. Baranzano RA: 186201
