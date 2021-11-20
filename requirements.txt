@@ -1,2 +1,2 @@
-ipywidgets==8.0.0
+ipywidgets==8.0.0b0
 numpy==1.21.4
